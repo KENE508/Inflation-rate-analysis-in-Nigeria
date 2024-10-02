@@ -39,3 +39,9 @@ To conclude this analysis, i'd like to  suggest a few points that would generall
  goods and people. Gradual reform of subsidies can reduce the cost of doing business, making transportation and distribution more affordable and efficient .
  5. EXPANDING SOCIAL SAFETY NETS - Expanded safety nets benefit sectors like healthcare and education, ensuring that vulnerable populations have access to essential services.
  These programs also stimulate demand for basic goods and services, benefiting the retail and agriculture sectors.
+
+### References:
+
+### Acknowledgment
+- Special thanks to AI tools for guidance on exploratory questions and structuring the analysis.
+
