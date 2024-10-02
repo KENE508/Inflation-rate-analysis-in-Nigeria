@@ -6,7 +6,7 @@
 
  ### Data source
 
- Kaggle [Download here](https://https://www.kaggle.com/datasets/iamhardy/nigeria-inflation-rates)
+ Kaggle [Download here](https://www.kaggle.com/datasets/iamhardy/nigeria-inflation-rates)
 
  ### Methodology
 
