@@ -6,6 +6,8 @@
 
  ### Data source
 
+ Kaggle [Download here](https://https://www.kaggle.com/datasets/iamhardy/nigeria-inflation-rates)
+
  ### Methodology
 
 - Data Loading: Imported necessary libraries from Google Drive and read the dataset into a Pandas DataFrame for analysis.
