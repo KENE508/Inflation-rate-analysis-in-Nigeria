@@ -28,4 +28,4 @@ Python
 The analysis revealed that all macroeconomic variables examined share a positive relationship with inflation. As inflation rises, the cost of goods and services, education, healthcare, and other essential sectors also increase. However, each sector has its own unique relationship with the inflation rate. Notably, crude oil production and exports are negatively correlated with inflation, meaning that increased crude oil output and exports tend to reduce inflationary pressures. Over time, these dynamics have significantly impacted the standard of living in Nigeria, contributing to rising costs and socio-economic challenges, including insecurity.
 
 ### Project link
-Analysis [View the analysis on Jupyter Notebook](https://Inflation_Rate_Analysis_in_Nigeria.ipynb)
+Analysis [View the analysis on Jupyter Notebook](https://github.com/KENE508/Inflation-rate-analysis-in-Nigeria/blob/main/Inflation_Rate_Analysis_in_Nigeria.ipynb)
