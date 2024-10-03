@@ -10,7 +10,7 @@
 
  ### Methodology
 
-- Data Loading: Imported necessary libraries from Google Drive and read the dataset into a Pandas DataFrame for analysis.
+- Data Loading: Imported necessary libraries and read the dataset into a Pandas DataFrame for analysis.
 - Data Inspection: Reviewed the dataset’s structure, checked formats, and examined data types. Made appropriate type conversions to ensure consistency.
 - Data Cleaning: Verified the dataset for missing values; confirmed that no cleaning was required as the data was already complete.
 - Data Analysis: Proceeded to explore the dataset through statistical analysis and visualizations, focusing on inflation trends and their relationships with key macroeconomic variables.
@@ -33,14 +33,15 @@ Analysis [View the analysis on Jupyter Notebook](https://github.com/KENE508/Infl
 ## Policy Recomendations
 To conclude this analysis, i'd like to  suggest a few points that would generally ease inflation rate leading to lower costs in all other major sectors.
  1. STABILIZATION OF THE EXCHANGE RATE - This would have a positive impact on all sectors because it would lead to lower cost of importing goods and services
- 2. IMPROVING AGRICULTURAL PRODUCTIVITY - This improves affordability for consumers, reduces inflationary pressure, and boosts economic growth in related industries .
- 3. REDUCING DEPENDENCE ON IMPORTS - Promoting local production of energy to help reduce the impact of global oil fluctuations .
- 4. REFORMING FUEL SUBCIDIES - The removal of fuel subsidies has a direct impact on the transportation and logistics sectors, which heavily rely on fuel for moving
+ 2. IMPROVING AGRICULTURAL PRODUCTIVITY - This would make food items more affordable for consumers, reduces inflationary pressure, and boosts economic growth in related industries .
+ 3. REDUCING DEPENDENCE ON OIL/ENERGY IMPORTS - Promoting local production of energy to help reduce the impact of global oil fluctuations .
+ 4. REFORMING FUEL SUBSIDIES - The removal of fuel subsidies has a direct impact on the transportation and logistics sectors, which heavily rely on fuel for moving
  goods and people. Gradual reform of subsidies can reduce the cost of doing business, making transportation and distribution more affordable and efficient .
  5. EXPANDING SOCIAL SAFETY NETS - Expanded safety nets benefit sectors like healthcare and education, ensuring that vulnerable populations have access to essential services.
  These programs also stimulate demand for basic goods and services, benefiting the retail and agriculture sectors.
 
 ### References:
+macrotrends: Inflation rate in Nigeria from 1960-2024[link](https://https://www.macrotrends.net/global-metrics/countries/NGA/nigeria/inflation-rate-cpi)
 
 ### Acknowledgment
 - Special thanks to AI tools for guidance on exploratory questions and structuring the analysis.
