@@ -41,7 +41,9 @@ To conclude this analysis, i'd like to  suggest a few points that would generall
  These programs also stimulate demand for basic goods and services, benefiting the retail and agriculture sectors.
 
 ### References:
-macrotrends: Inflation rate in Nigeria from 1960-2024[link](https://www.macrotrends.net/global-metrics/countries/NGA/nigeria/inflation-rate-cpi)
+- macrotrends: Inflation rate in Nigeria from 1960-2024 [link](https://www.macrotrends.net/global-metrics/countries/NGA/nigeria/inflation-rate-cpi)
+- Trading Economics: Nigeria inflation rate [link](https://tradingeconomics.com/nigeria/inflation-cpi)
+- Stack overflow: How to mark specific data points in matplotlib graph [link](https://stackoverflow.com/questions/47211866/how-to-mark-specific-data-points-in-matplotlib-graph)
 
 ### Acknowledgment
 - Special thanks to AI tools for guidance on exploratory questions and structuring the analysis.
