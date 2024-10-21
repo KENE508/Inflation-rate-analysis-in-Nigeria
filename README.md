@@ -2,7 +2,10 @@
 
  ### Project Overview
 
- This project provides insights into the inflation rate in Nigeria since 2008, analyzing its effects on key macroeconomic variables, the contributing factors behind inflationary trends, and how these dynamics have impacted the average Nigerian. The analysis also explores the correlation between inflation and sectors such as food, healthcare, and transportation, offering a comprehensive view of the underlying economic challenges .
+ This project provides insights into the inflation rate in Nigeria since 2008, analyzing its effects on key macroeconomic variables, the contributing factors behind inflationary trends, and how these dynamics have impacted the average Nigerian. The analysis also explores the correlation between inflation and sectors such as food, healthcare, and transportation, offering a comprehensive view of the underlying economic challenges.
+
+ ### Objective
+ The objective of this project is to analyze the inflation rate in Nigeria from 2008 to date and assess how key sectors such as food, health, and transportation have been affected over the long run. The analysis also highlights the impact of significant global events on the Nigerian economy.
 
  ### Data source
 
@@ -46,5 +49,5 @@ To conclude this analysis, i'd like to  suggest a few points that would generall
 - Stack overflow: How to mark specific data points in matplotlib graph [link](https://stackoverflow.com/questions/47211866/how-to-mark-specific-data-points-in-matplotlib-graph)
 
 ### Acknowledgment
-- Special thanks to AI tools for guidance on exploratory questions and structuring the analysis.
+- A special thanks to my data community colleagues. Their wisdom and guidance were instrumental in shaping this project, I am truly indebted to their contributions.
 
